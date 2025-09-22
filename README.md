@@ -5,7 +5,7 @@ It integrates classical image processing, watershed-based segmentation, and mach
 
 This repository contains the version of CLARIFI3D used for the analyses reported in:
 
-> Mast et al., *Nature Communications*, 2025
+> Shukla et al., *Nature Communications*, 2025
 
 ---
 
